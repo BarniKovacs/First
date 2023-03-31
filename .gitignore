@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Code/Backend/Arrays/.vs
+/Code/Backend/Arrays/Arrays/bin/Debug/netcoreapp3.1
+/Code/Backend/Arrays/Arrays/obj
+/Code/Backend/HelloWorld/.vs
+/Code/Backend/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1
+/Code/Backend/HelloWorld/HelloWorld/obj
+/Code/Backend/Loops/.vs
+/Code/Backend/Loops/Loops/bin/Debug/netcoreapp3.1
+/Code/Backend/Loops/Loops/obj
+/Code/Backend/Passcode/.vs
+/Code/Backend/Passcode/Passcode/bin/Debug/netcoreapp3.1
+/Code/Backend/Passcode/Passcode/obj
+/Code/Backend/Survey/.vs
+/Code/Backend/Survey/Survey/bin/Debug/netcoreapp3.1
+/Code/Backend/Survey/Survey/obj
+/Code/Backend/SchoolTracker/.vs
+/Code/Backend/SchoolTracker/SchoolTracker/bin/Debug/netcoreapp3.1
+/Code/Backend/SchoolTracker/SchoolTracker/obj
