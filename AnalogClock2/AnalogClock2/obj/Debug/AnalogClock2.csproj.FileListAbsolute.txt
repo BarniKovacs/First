@@ -1,0 +1,11 @@
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\bin\Debug\AnalogClock2.exe.config
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\bin\Debug\AnalogClock2.exe
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\bin\Debug\AnalogClock2.pdb
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.csproj.AssemblyReference.cache
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.Form1.resources
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.Properties.Resources.resources
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.csproj.GenerateResource.cache
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.csproj.CoreCompileInputs.cache
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.exe
+C:\Users\KOVACS-PC\Documents\GitHub\Code\AnalogClock2\AnalogClock2\obj\Debug\AnalogClock2.pdb
